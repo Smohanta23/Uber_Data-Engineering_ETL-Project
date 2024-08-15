@@ -13,18 +13,18 @@ In this project, I designed a comprehensive data engineering solution using an U
 https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/4208599f-c0a2-4747-ae1b-87751a37de6f
 
 ## Step 4: Developing the uber project and a bucket on the Google Cloud Platform, extracting the data, selecting the server and setting up the required permissions.
-<img width="711" alt="gcp_start" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/95721865-1d94-45af-88ba-ec51c9b78d95">
+<img width="711" alt="gcp_start" src="gcp_start.png">
 
 Note: Project ID and Project Number are hidden intentionally for copyright issues.
 
 ## Step 5: Creating a Virtual Machine Instance in GCP using GCP Compute Engine.
 
-![comput_engine_logo](https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/83e73e1f-8956-4caf-8a9b-904e506fada1)
+![compute_engine_logo](https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/83e73e1f-8956-4caf-8a9b-904e506fada1)
 <img width="278" alt="google_compute_instance_SSH_code_b4_we_start" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/71453ee7-c6be-48ae-a605-07d2689b207d">
 <img width="402" alt="converting_tables_to_dictionary_in_mage" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/b6f0f33d-ff71-4b3c-ad59-1189e1070203">
 
 ## Step 6: Connectting the VM to the Mage Project using SSH Linux Terminal and creating the mage project.
-<img width="944" alt="mage_ai" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/e51a9516-c506-4d35-8c56-71bdc2edc378">
+<img width="944" alt="mage_ai" src="Mage_VM.png">
 
 ### Step 7: Building a data pipeline with Mage using blocks like data loader, transformer, and exporter (ETL).Incorporate your own extra transformation code into the data transformer, making the necessary adjustments.
 
