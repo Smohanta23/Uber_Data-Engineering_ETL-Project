@@ -4,9 +4,9 @@
 In this project, I designed a comprehensive data engineering solution using an Uber dataset to build a robust data model. I implemented data transformation by writing Python scripts to convert flat files into structured fact and dimension tables. The project was deployed on Google Cloud, utilizing Compute Engine for virtual machines, BigQuery for data warehousing, and Data Studio for creating interactive dashboards. Mage, an open-source tool, was employed for seamless data transformation and integration. This hands-on project not only demonstrates practical skills in Python and SQL but also highlights key data engineering concepts such as dimensional modeling and cloud integration for scalable data solutions.
 
 ### Step 1: Designing a Process Flow on GCP
-<img width="861" alt="process" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/df1b947a-7a3c-498e-8bc5-fcac182da3f4">
+<img width="861" alt="process" src="Process_Flow_GCP.png">
 
-### Step 2: Data Modeling and creating an ER Diagram to get a better understanding of the data
+### Step 2: Building an ER Diagram for Uber Data-Flow
 ![Uber Data Model](https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/629e317a-7deb-48dc-9afa-f920f89ae636)
 
 ### Step 3: Writing the Transformation code in Python
