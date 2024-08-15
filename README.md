@@ -1,5 +1,5 @@
 # Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT
-![uber_logo_linkedin_post](https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/2f929820-68b1-4b3c-9d66-87bdc3f757bf)
+![uber-logo](Uber-logo.jpg)
 
 Hello Everyone, I am excited to share my first complete end-to-end Data Engineering Project, Uber Data Analysis Project, from creating data pipelines to finally creating the dashboard. 
 
