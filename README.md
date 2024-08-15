@@ -19,9 +19,9 @@ Note: Project ID and Project Number are hidden intentionally for copyright issue
 
 ## Step 5: Creating a Virtual Machine Instance in GCP using GCP Compute Engine.
 
-![compute_engine_logo](https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/83e73e1f-8956-4caf-8a9b-904e506fada1)
-<img width="278" alt="google_compute_instance_SSH_code_b4_we_start" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/71453ee7-c6be-48ae-a605-07d2689b207d">
-<img width="402" alt="converting_tables_to_dictionary_in_mage" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/b6f0f33d-ff71-4b3c-ad59-1189e1070203">
+![compute_engine_logo](Google_Compute_Engine-Logo.png)
+<img width="278" alt="google_compute_instance_SSH_code_b4_we_start" src="pre-requisites for VM.png">
+<img width="402" alt="converting_tables_to_dictionary_in_mage" src="return-values_VM.png">
 
 ## Step 6: Connectting the VM to the Mage Project using SSH Linux Terminal and creating the mage project.
 <img width="944" alt="mage_ai" src="Mage_VM.png">
