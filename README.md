@@ -36,6 +36,10 @@ Note: Project ID and Project Number are hidden intentionally for copyright issue
 https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/7d03f9af-28c2-405c-a7ea-55dd45cffa1f
 
 ### Step 10: Finally, create a dashboard using your preferred dashboarding or reporting tool. I used Google Looker Studio, but you can also opt for other tools like Power BI, Tableau, or Qlik Sense.
-[Uber Dashboard full PDF](Uber_Dashboard.pdf).
+<img width="816" alt="bttom_snap" src="dashboard_snippet_.png">
+
+<img width="815" alt="cab_map" src="Cab_Pickup_Locations.png">
+
+<img width="816" alt="bttom_snap" src="Charts_distribution_snippet.png">
 
 ## Have a look at my Uber Dashboard- [https://lookerstudio.google.com/s/nQI06ax2wMY](https://lookerstudio.google.com/u/0/reporting/f383c480-7dab-461f-b426-8bbb1df2f13d/page/8pqOD?s=nQI06ax2wMY)
