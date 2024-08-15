@@ -19,9 +19,11 @@ Note: Project ID and Project Number are hidden intentionally for copyright issue
 
 ## Step 5: Creating a Virtual Machine Instance in GCP using GCP Compute Engine.
 
-![compute_engine_logo](Google_Compute_Engine-Logo.png)
-<img width="278" alt="google_compute_instance_SSH_code_b4_we_start" src="pre-requisites for VM.png">
-<img width="402" alt="converting_tables_to_dictionary_in_mage" src="return-values_VM.png">
+<p align="center">
+  <img src="Google_Compute_Engine-Logo.png" width="300" alt="Compute Engine Logo"/>
+  <img src="pre-requisites for VM.png" width="300" alt="Pre-requisites for VM"/>
+  <img src="return-values_VM.png" width="300" alt="Converting Tables to Dictionary in Mage"/>
+</p>
 
 ## Step 6: Connectting the VM to the Mage Project using SSH Linux Terminal and creating the mage project.
 <img width="944" alt="mage_ai" src="Mage_VM.png">
