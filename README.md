@@ -19,9 +19,11 @@ Note: Project ID and Project Number are hidden intentionally for copyright issue
 
 ## Step 5: Creating a Virtual Machine Instance in GCP using GCP Compute Engine.
 
-![compute_engine_logo](https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/83e73e1f-8956-4caf-8a9b-904e506fada1)
-<img width="278" alt="google_compute_instance_SSH_code_b4_we_start" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/71453ee7-c6be-48ae-a605-07d2689b207d">
-<img width="402" alt="converting_tables_to_dictionary_in_mage" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/b6f0f33d-ff71-4b3c-ad59-1189e1070203">
+<p align="center">
+  <img src="Google_Compute_Engine-Logo.png" width="300" alt="Compute Engine Logo"/>
+  <img src="pre-requisites for VM.png" width="300" alt="Pre-requisites for VM"/>
+  <img src="return-values_VM.png" width="300" alt="Converting Tables to Dictionary in Mage"/>
+</p>
 
 ## Step 6: Connectting the VM to the Mage Project using SSH Linux Terminal and creating the mage project.
 <img width="944" alt="mage_ai" src="Mage_VM.png">
@@ -34,10 +36,6 @@ Note: Project ID and Project Number are hidden intentionally for copyright issue
 https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/7d03f9af-28c2-405c-a7ea-55dd45cffa1f
 
 ### Step 10: Finally, create a dashboard using your preferred dashboarding or reporting tool. I used Google Looker Studio, but you can also opt for other tools like Power BI, Tableau, or Qlik Sense.
-<img width="816" alt="bttom_snap" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/02b5af9e-1684-4a96-abae-629e877038a8">
-
-<img width="815" alt="cab_map" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/9a6656dd-8594-4fbf-b324-2a17a10e486e">
-
-<img width="816" alt="bttom_snap" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/db9b9fe1-859f-4179-b8eb-93f87d397e06">
+[Uber Dashboard full PDF](Uber_Dashboard.pdf).
 
 ## Have a look at my Uber Dashboard- [https://lookerstudio.google.com/s/nQI06ax2wMY](https://lookerstudio.google.com/u/0/reporting/f383c480-7dab-461f-b426-8bbb1df2f13d/page/8pqOD?s=nQI06ax2wMY)
