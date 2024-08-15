@@ -1,9 +1,9 @@
-# Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT
+# Uber Data Analytics (Data Engineering ETL Project)
 ![uber-logo](Uber-logo.jpg)
 
-Hello Everyone, I am excited to share my first complete end-to-end Data Engineering Project, Uber Data Analysis Project, from creating data pipelines to finally creating the dashboard. 
+In this project, I designed a comprehensive data engineering solution using an Uber dataset to build a robust data model. I implemented data transformation by writing Python scripts to convert flat files into structured fact and dimension tables. The project was deployed on Google Cloud, utilizing Compute Engine for virtual machines, BigQuery for data warehousing, and Data Studio for creating interactive dashboards. Mage, an open-source tool, was employed for seamless data transformation and integration. This hands-on project not only demonstrates practical skills in Python and SQL but also highlights key data engineering concepts such as dimensional modeling and cloud integration for scalable data solutions.
 
-### Step 1: Creating a Process Flow
+### Step 1: Designing a Process Flow on GCP
 <img width="861" alt="process" src="https://github.com/UmairThakur/Uber-Data-Analysis-ETL-PIPELINE-DATA-ANALYSIS_PROJECT/assets/81063457/df1b947a-7a3c-498e-8bc5-fcac182da3f4">
 
 ### Step 2: Data Modeling and creating an ER Diagram to get a better understanding of the data
